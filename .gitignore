@@ -1,0 +1,9 @@
+# ignore all
+*
+
+
+# but these
+!Makefile
+!*.c
+!README.md
+!.gitignore
